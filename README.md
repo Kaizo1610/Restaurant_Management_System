@@ -37,5 +37,11 @@ The reservation system ensures that customers can effortlessly plan their visits
 ### 4.0 Features and Functionalities
 
 
+### 5.0 Entity Relation Diagram
+
+### 6.0 Sequence Diagram
+
+<img src="WebProjectSD.png">
+
 
 
