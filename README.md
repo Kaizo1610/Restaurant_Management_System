@@ -62,6 +62,18 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>1.Assign a duty for staff by filling the form and clicking the submit button to save.</p>
 <p>2.Also can remove staff by clicking the delete button. </p>
 
+##### 4.3 About page
+##### 4.3.1 View about page
+<img src="about.png">
+<p>1.Explain more about our restaurant's background.</p>
+
+##### 4.4 Chefs Page
+##### 4.4.1 View Chefs page
+<img src="chefs.png">
+<p>1.To introduce our lineup chefs.</p>
+
+
+
 
 ### 5.0 Entity Relation Diagram
 
