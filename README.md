@@ -74,7 +74,7 @@ The reservation system ensures that customers can effortlessly plan their visits
 <img src="TableReservation.png">
 <p>1.Customers can fill the empty boxes with the reservation details.</p>
 <p>2.Customers just need to click the "Make a Reservation" button to submit their reservation details,  and then will be directed to the make order page.</p>
-<p>3.Customers can click the "Cancel" button to cancel their reservation,  and then will be directed to the mainpage.</p>
+<p>3.Customers can click the "Cancel" button to cancel their reservation,  and then will be directed to the home page.</p>
 <p>4. Staff can click  "Order Now" button to skip the page and will be directed to the make order page.</p><br>
 
 #### 4.5 Order page
@@ -92,7 +92,6 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>4.Customers also can click the "cancel" button if they want to change their mind.</p><br><br>
 
 
-
 #### 4.6 Chefs Page
 #### 4.6.1 View Chefs page
 <img src="chefs1.png">
@@ -108,24 +107,24 @@ The reservation system ensures that customers can effortlessly plan their visits
 
 
 
-#### 4.7 Payment Page
-#### 4.7.1 View Payment page
+#### 4.8 Payment Page
+#### 4.8.1 View Payment page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br>
 
-#### 4.7.2 Online Banking page
+#### 4.8.2 Online Banking page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br>
 
-#### 4.7.3 Credit Card page
+#### 4.8.3 Credit Card page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br>
 
-#### 4.7.4 Payment Successful page
+#### 4.8.4 Payment Successful page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br>
 
-#### 4.7.5 Payment Failed page
+#### 4.8.5 Payment Failed page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br><br>
 
