@@ -106,7 +106,7 @@ The reservation system ensures that customers can effortlessly plan their visits
 
 #### 4.7 Payment Page
 #### 4.7.1 View Payment page
-<img src="Payment.png">
+<img src="ViewPayment.png">
 <p>1.Customers can view the detailed payment they need to pay.</p>
 <p>2.List up the methods that can be used by customers to make payments.</p>
 
