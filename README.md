@@ -69,6 +69,35 @@ The reservation system ensures that customers can effortlessly plan their visits
 <img src="about1.png">
 <p>1.Explain more about our restaurant's background.</p><br><br>
 
+#### 4.4 Table Reservation page
+#### 4.4.1 Reserve Table page
+<img src="TableReservation.png">
+<p>1.Customers can fill the empty boxes with the reservation details.</p>
+<p>2.Customers just need to click the "Make a Reservation" button to submit their reservation details,  and then will be directed to the make order page.</p>
+<p>3.Customers can click the "Cancel" button to cancel their reservation,  and then will be directed to the mainpage.</p>
+<p>4. Staff can click  "Order Now" button to skip the page and will be directed to the make order page.</p><br>
+
+#### 4.5 Order page
+#### 4.5.1 Make Order page
+<img src="MakeOrder.png">
+<p>1.Customers can choose which meals they want.</p>
+<p>2.Customers can use the left and right arrows to add or remove the quantity of that meal.</p>
+<p>3.Customers just need to click the "order" button to finalize their orders.</p><br>
+
+#### 4.5.2 View Order page
+<img src="ViewOrder.png">
+<p>1.Customers can see the details of orders that they make.</p>
+<p>2.Customers can click the "back" button to go back to the previous page.</p>
+<p>3.Customers just need to click the "pay" button once they already finalized their orders.</p>
+<p>4.Customers also can click the "cancel" button if they want to change their mind.</p><br><br>
+
+
+
+#### 4.6 Chefs Page
+#### 4.6.1 View Chefs page
+<img src="chefs1.png">
+<p>1.List up the best chefs from our restaurant.</p><br><br>
+
 
 #### 4.4 Menu page
 #### 4.4.1 Make Order page
