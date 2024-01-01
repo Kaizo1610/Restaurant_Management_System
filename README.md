@@ -36,7 +36,7 @@ The reservation system ensures that customers can effortlessly plan their visits
 
 ### 4.0 Features and Functionalities
 #### 4.1 Main Page
-#### 4.1.1 Main Page
+#### 4.1.1 Home Page
 <img src="mianpage.png">
 <p>1. Display image of restaurant</p>
 <p>2. Customers can click to go home, about, menu, chefs and contact us</p> 
@@ -70,7 +70,7 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>1.Explain more about our restaurant's background.</p><br><br>
 
 
-#### 4.4 About page
+#### 4.4 Menu page
 #### 4.4.1 Make Order page
 <img src="MakeOrder.png">
 <p>1.Customers can choose which meals they want.</p>
@@ -85,9 +85,41 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>4.Customers also can click the "cancel" button if they want to change their mind.</p><br><br>
 
 
-
 #### 4.5 Chefs Page
 #### 4.5.1 View Chefs page
+<img src="chefs1.png">
+<p>1.List up the best chefs from our restaurant.</p><br><br>
+
+
+#### 4.6 Contact Us Page
+#### 4.6.1 View Contact page
+<img src="chefs1.png">
+<p>1.Customers can view the methods to contact our restaurant.</p>
+<p>2.Customers can view the location of our restaurant.</p>
+<p>3.Customers can click the "reserve your table" button to reserve the table and time.</p>
+
+#### 4.6.2 Reservation page
+<img src="chefs1.png">
+<p>1.List up the best chefs from our restaurant.</p><br><br>
+
+#### 4.7 Payment Page
+#### 4.7.1 View Payment page
+<img src="chefs1.png">
+<p>1.List up the best chefs from our restaurant.</p><br>
+
+#### 4.7.2 Online Banking page
+<img src="chefs1.png">
+<p>1.List up the best chefs from our restaurant.</p><br>
+
+#### 4.7.3 Credit Card page
+<img src="chefs1.png">
+<p>1.List up the best chefs from our restaurant.</p><br>
+
+#### 4.7.4 Payment Successful page
+<img src="chefs1.png">
+<p>1.List up the best chefs from our restaurant.</p><br>
+
+#### 4.7.5 Payment Failed page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br><br>
 
