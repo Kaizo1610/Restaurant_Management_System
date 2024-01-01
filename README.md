@@ -35,6 +35,11 @@ The reservation system ensures that customers can effortlessly plan their visits
  </p>
 
 ### 4.0 Features and Functionalities
+##### 4.1 Main Page
+<img src="mianpage.png">
+<p>Display image of restaurant</p>
+<p>Customer can click to go home, menu reservation, chefs and contact us</p> 
+<p>Staff can click continue as staff and will navigated to log in page</p>
 
 
 ##### 4.2 Staff Page
