@@ -51,6 +51,8 @@ The reservation system ensures that customers can effortlessly plan their visits
 <img src="SignUp Page.png">
 <p>1. Staff can sign up on this page and will be directed to the staff page.</p>
 
+
+
 ##### 4.2 Staff Page
 ##### 4.2.1 Staff duty page
 <img src="staff1.png">
@@ -62,14 +64,33 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>1.Assign a duty for staff by filling the form and clicking the submit button to save.</p>
 <p>2.Also can remove staff by clicking the delete button. </p>
 
+
+
 ##### 4.3 About page
 ##### 4.3.1 View about page
-<img src="about.png">
+<img src="about1.png">
 <p>1.Explain more about our restaurant's background.</p>
 
-##### 4.4 Chefs Page
-##### 4.4.1 View Chefs page
-<img src="chefs.png">
+
+##### 4.4 About page
+##### 4.4.1 Make Order page
+<img src="MakeOrder.png">
+<p>1.Customers can choose which meals they want.</p>
+<p>2.Customers can use the left and right arrows to add or remove the quantity of that meal.</p>
+<p>3.Customers just need to click the "order" button to finalize their orders.</p>
+
+##### 4.4.2 View Order page
+<img src="ViewOrder.png">
+<p>1.Customers can see the details of orders that they make.</p>
+<p>2.Customers can click the "back" button to go back to the previous page.</p>
+<p>3.Customers just need to click the "pay" button once they already finalized their orders.</p>
+<p>4.Customers also can click the "cancel" button if they want to change their mind.</p>
+
+
+
+##### 4.5 Chefs Page
+##### 4.5.1 View Chefs page
+<img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p>
 
 
