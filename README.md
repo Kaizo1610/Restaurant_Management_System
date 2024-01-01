@@ -6,13 +6,13 @@
 ## SECTION 2 (SEM 1 2023/2024)
 ## INSTRUCTOR: MOHD KHAIRUL AZMI BIN HASSAN 
 
-|               NAME               | MATRIC NO.  |
-| ---------------------------------| ----------- |
-| MUHAMMAD NUR BADRI BIN MAHAZIR   | 2110797     |
-| MOHAMAD AIMAN AKIM BIN ADANAN    | 2113823     |
-| MOHAMAD FAWWAZ BIN ZAMRI         | 2122681     |
-| MUHAMAD ARASH BIN ABDULLAH @ SHAMSUDIN| 2118279   |
-| JOHAN                            | 211         |
+|               NAME                    | MATRIC NO.  |
+| ---------------------------------     | ----------- |
+| MUHAMMAD NUR BADRI BIN MAHAZIR        | 2110797     |
+| MOHAMAD AIMAN AKIM BIN ADANAN         | 2113823     |
+| MOHAMAD FAWWAZ BIN ZAMRI              | 2122681     |
+| MUHAMAD ARASH BIN ABDULLAH @ SHAMSUDIN| 2118279     | 
+| JOHAN                                 | 211         |
 
 
 ### 1.0 Project Title
