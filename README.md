@@ -99,37 +99,14 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>1.List up the best chefs from our restaurant.</p><br><br>
 
 
-#### 4.4 Menu page
-#### 4.4.1 Make Order page
-<img src="MakeOrder.png">
-<p>1.Customers can choose which meals they want.</p>
-<p>2.Customers can use the left and right arrows to add or remove the quantity of that meal.</p>
-<p>3.Customers just need to click the "order" button to finalize their orders.</p><br>
-
-#### 4.4.2 View Order page
-<img src="ViewOrder.png">
-<p>1.Customers can see the details of orders that they make.</p>
-<p>2.Customers can click the "back" button to go back to the previous page.</p>
-<p>3.Customers just need to click the "pay" button once they already finalized their orders.</p>
-<p>4.Customers also can click the "cancel" button if they want to change their mind.</p><br><br>
-
-
-#### 4.5 Chefs Page
-#### 4.5.1 View Chefs page
-<img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br><br>
-
-
-#### 4.6 Contact Us Page
-#### 4.6.1 View Contact page
+#### 4.7 Contact Us Page
+#### 4.7.1 View Contact page
 <img src="chefs1.png">
 <p>1.Customers can view the methods to contact our restaurant.</p>
 <p>2.Customers can view the location of our restaurant.</p>
 <p>3.Customers can click the "reserve your table" button to reserve the table and time.</p>
 
-#### 4.6.2 Reservation page
-<img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br><br>
+
 
 #### 4.7 Payment Page
 #### 4.7.1 View Payment page
