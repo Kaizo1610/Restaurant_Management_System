@@ -43,6 +43,11 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>1.Display a list of staff and their duty in a week.</p>
 <p>2.The table also can be modified, by clicking on the update button it will navigate to the update duty page.</p>
 
+###### 4.2.2 Update duty page
+<img src="staff2.png">
+<p>1.Assign a duty for staff by filling the form and clicking the submit button to save.</p>
+<p>2.Also can remove staff by clicking the delete button. </p>
+
 
 ### 5.0 Entity Relation Diagram
 
