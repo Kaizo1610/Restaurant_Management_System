@@ -36,11 +36,20 @@ The reservation system ensures that customers can effortlessly plan their visits
 
 ### 4.0 Features and Functionalities
 ##### 4.1 Main Page
+##### 4.1.1 Main Page
 <img src="mianpage.png">
-<p>Display image of restaurant</p>
-<p>Customer can click to go home, menu reservation, chefs and contact us</p> 
-<p>Staff can click continue as staff and will navigated to log in page</p>
+<p>1. Display image of restaurant</p>
+<p>2. Customer can click to go home, menu reservation, chefs and contact us</p> 
+<p>3. Staff can click continue as staff and will navigated to log in page</p>
 
+##### 4.1.2 Login Page
+<img src="Login Page.png">
+<p>1. Staff can login and will be directed to the staff page</p>
+<p>2. Staff can click  sign up and will be directed to the sign up page.</p>
+
+##### 4.1.3 Sign Up Page
+<img src="SignUp Page.png">
+<p>1. Staff can sign up on this page and will be directed to the staff page.</p>
 
 ##### 4.2 Staff Page
 ##### 4.2.1 Staff duty page
