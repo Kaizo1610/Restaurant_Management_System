@@ -70,7 +70,7 @@ The reservation system ensures that customers can effortlessly plan their visits
 ##### 4.4 Chefs Page
 ##### 4.4.1 View Chefs page
 <img src="chefs.png">
-<p>1.To introduce our lineup chefs.</p>
+<p>1.List up the best chefs from our restaurant.</p>
 
 
 
