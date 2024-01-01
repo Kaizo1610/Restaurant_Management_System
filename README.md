@@ -1,4 +1,4 @@
-<img src="logo IIUM.png" width="800" height="500">
+<img src="logo IIUM.png" width="700" height="300">
 
 # INFO 3305 WEB APPLICATION DEVELOPMENT 
 
