@@ -1,4 +1,4 @@
-![image](https://github.com/Kaizo1610/Restaurant_Management_System/assets/147673571/2dbc7d3e-51ac-4e73-95bd-a1b6c7240fd0)<img src="logo IIUM.png" width="700" height="250">
+<img src="logo IIUM.png" width="700" height="250">
 
 # INFO 3305 WEB APPLICATION DEVELOPMENT 
 
@@ -16,10 +16,10 @@
 
 
 ### 1.0 Project Title
-<p>Restaurant Management System</p><br><br>
+<p>Restaurant Management System</p><br>
 
 ### 2.0 Introduction
-<p>  In the ever-evolving landscape of the culinary industry, the need for optimized and efficient restaurant management has become more urgent than ever. The project that we proposed is a restaurant management system. This system will become a great helping tool for restaurants and also users. This project aims to provide a mutually beneficial platform that meets the various requirements of customers, employees, and restaurant owners. Through the smooth integration of modern technology into the core operations of restaurants, our goals are to improve overall productivity, minimize time limitations, and raise the quality for customer satisfaction. </p><br><br>
+<p>  In the ever-evolving landscape of the culinary industry, the need for optimized and efficient restaurant management has become more urgent than ever. The project that we proposed is a restaurant management system. This system will become a great helping tool for restaurants and also users. This project aims to provide a mutually beneficial platform that meets the various requirements of customers, employees, and restaurant owners. Through the smooth integration of modern technology into the core operations of restaurants, our goals are to improve overall productivity, minimize time limitations, and raise the quality for customer satisfaction. </p><br>
 
 ### 3.0 Objective
 <p>  The objective of this project is to:
@@ -32,7 +32,7 @@ Introduce tools and features aimed explicitly at increasing staff productivity. 
 
 3. Enhance customer experience
 The reservation system ensures that customers can effortlessly plan their visits, reducing wait times and enhancing overall satisfaction. Through these enhancements, we aim to create a memorable and enjoyable experience for every customer, fostering loyalty and positive word-of-mouth.
- </p><br><br>
+ </p><br>
 
 ### 4.0 Features and Functionalities
 #### 4.1 Main Page
