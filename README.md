@@ -1,9 +1,9 @@
-<center> # INFO 3305 WEB APPLICATION DEVELOPMENT <center/>
+# INFO 3305 WEB APPLICATION DEVELOPMENT 
 
-<center>### PROJECT: <center/>
-<center>### PROPOSAL & MOCK UP <center/> 
-<center>### SECTION 2 <center/>
-<center>### INSTRUCTOR: MOHD KHAIRUL AZMI BIN HASSAN <center/>
+### PROJECT: 
+### PROPOSAL & MOCK UP  
+### SECTION 2 
+### INSTRUCTOR: MOHD KHAIRUL AZMI BIN HASSAN 
 
 |               NAME               | MATRIC NO.  |
 | ---------------------------------| ----------- |
