@@ -1,4 +1,4 @@
-<img src="logo IIUM.png" width="700" height="250">
+![image](https://github.com/Kaizo1610/Restaurant_Management_System/assets/147673571/2dbc7d3e-51ac-4e73-95bd-a1b6c7240fd0)<img src="logo IIUM.png" width="700" height="250">
 
 # INFO 3305 WEB APPLICATION DEVELOPMENT 
 
@@ -89,12 +89,11 @@ The reservation system ensures that customers can effortlessly plan their visits
 #### 4.5 Chefs Page
 #### 4.5.1 View Chefs page
 <img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br>
-
-
+<p>1.List up the best chefs from our restaurant.</p><br><br>
 
 
 ### 5.0 Entity Relation Diagram
+<img src="ER Diagram.png"><br><br>
 
 ### 6.0 Sequence Diagram
 
