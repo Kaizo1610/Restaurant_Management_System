@@ -37,6 +37,13 @@ The reservation system ensures that customers can effortlessly plan their visits
 ### 4.0 Features and Functionalities
 
 
+###### 4.2 Staff Page
+###### 4.2.1 Staff duty page
+<img src="staff1.png">
+<p>1.Display a list of staff and their duty in a week.</p>
+<p>2.The table also can be modified, by clicking on the update button it will navigate to the update duty page.</p>
+
+
 ### 5.0 Entity Relation Diagram
 
 ### 6.0 Sequence Diagram
