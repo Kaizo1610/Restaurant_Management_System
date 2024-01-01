@@ -1,3 +1,5 @@
+![logo IIUM](https://github.com/Kaizo1610/Restaurant_Management_System/assets/147673571/105ae3e0-a78f-44c5-968a-ae2a0670492e)
+
 # INFO 3305 WEB APPLICATION DEVELOPMENT 
 
 ### PROJECT: 
