@@ -35,49 +35,49 @@ The reservation system ensures that customers can effortlessly plan their visits
  </p>
 
 ### 4.0 Features and Functionalities
-##### 4.1 Main Page
-##### 4.1.1 Main Page
+#### 4.1 Main Page
+#### 4.1.1 Main Page
 <img src="mianpage.png">
 <p>1. Display image of restaurant</p>
 <p>2. Customer can click to go home, menu reservation, chefs and contact us</p> 
 <p>3. Staff can click continue as staff and will navigated to log in page</p><br>
 
-##### 4.1.2 Login Page
+#### 4.1.2 Login Page
 <img src="Login Page.png">
 <p>1. Staff can login and will be directed to the staff page</p>
 <p>2. Staff can click  sign up and will be directed to the sign up page.</p><br>
 
-##### 4.1.3 Sign Up Page
+#### 4.1.3 Sign Up Page
 <img src="SignUp Page.png">
 <p>1. Staff can sign up on this page and will be directed to the staff page.</p><br><br>
 
 
-##### 4.2 Staff Page
-##### 4.2.1 Staff duty page
+#### 4.2 Staff Page
+#### 4.2.1 Staff duty page
 <img src="staff1.png">
 <p>1.Display a list of staff and their duty in a week.</p>
 <p>2.The table also can be modified, by clicking on the update button it will navigate to the update duty page.</p><br>
 
-##### 4.2.2 Update duty page
+#### 4.2.2 Update duty page
 <img src="staff2.png">
 <p>1.Assign a duty for staff by filling the form and clicking the submit button to save.</p>
 <p>2.Also can remove staff by clicking the delete button. </p><br><br>
 
 
-##### 4.3 About page
-##### 4.3.1 View about page
+#### 4.3 About page
+#### 4.3.1 View about page
 <img src="about1.png">
 <p>1.Explain more about our restaurant's background.</p><br><br>
 
 
-##### 4.4 About page
-##### 4.4.1 Make Order page
+#### 4.4 About page
+#### 4.4.1 Make Order page
 <img src="MakeOrder.png">
 <p>1.Customers can choose which meals they want.</p>
 <p>2.Customers can use the left and right arrows to add or remove the quantity of that meal.</p>
 <p>3.Customers just need to click the "order" button to finalize their orders.</p><br>
 
-##### 4.4.2 View Order page
+#### 4.4.2 View Order page
 <img src="ViewOrder.png">
 <p>1.Customers can see the details of orders that they make.</p>
 <p>2.Customers can click the "back" button to go back to the previous page.</p>
@@ -86,8 +86,8 @@ The reservation system ensures that customers can effortlessly plan their visits
 
 
 
-##### 4.5 Chefs Page
-##### 4.5.1 View Chefs page
+#### 4.5 Chefs Page
+#### 4.5.1 View Chefs page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br>
 
