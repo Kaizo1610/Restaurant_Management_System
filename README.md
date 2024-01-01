@@ -16,10 +16,10 @@
 
 
 ### 1.0 Project Title
-<p>Restaurant Management System</p>
+<p>Restaurant Management System</p><br><br>
 
 ### 2.0 Introduction
-<p>  In the ever-evolving landscape of the culinary industry, the need for optimized and efficient restaurant management has become more urgent than ever. The project that we proposed is a restaurant management system. This system will become a great helping tool for restaurants and also users. This project aims to provide a mutually beneficial platform that meets the various requirements of customers, employees, and restaurant owners. Through the smooth integration of modern technology into the core operations of restaurants, our goals are to improve overall productivity, minimize time limitations, and raise the quality for customer satisfaction. </p>
+<p>  In the ever-evolving landscape of the culinary industry, the need for optimized and efficient restaurant management has become more urgent than ever. The project that we proposed is a restaurant management system. This system will become a great helping tool for restaurants and also users. This project aims to provide a mutually beneficial platform that meets the various requirements of customers, employees, and restaurant owners. Through the smooth integration of modern technology into the core operations of restaurants, our goals are to improve overall productivity, minimize time limitations, and raise the quality for customer satisfaction. </p><br><br>
 
 ### 3.0 Objective
 <p>  The objective of this project is to:
@@ -32,14 +32,14 @@ Introduce tools and features aimed explicitly at increasing staff productivity. 
 
 3. Enhance customer experience
 The reservation system ensures that customers can effortlessly plan their visits, reducing wait times and enhancing overall satisfaction. Through these enhancements, we aim to create a memorable and enjoyable experience for every customer, fostering loyalty and positive word-of-mouth.
- </p>
+ </p><br><br>
 
 ### 4.0 Features and Functionalities
 #### 4.1 Main Page
 #### 4.1.1 Main Page
 <img src="mianpage.png">
 <p>1. Display image of restaurant</p>
-<p>2. Customer can click to go home, menu reservation, chefs and contact us</p> 
+<p>2. Customers can click to go home, about, menu, chefs and contact us</p> 
 <p>3. Staff can click continue as staff and will navigated to log in page</p><br>
 
 #### 4.1.2 Login Page
@@ -93,7 +93,7 @@ The reservation system ensures that customers can effortlessly plan their visits
 
 
 ### 5.0 Entity Relation Diagram
-<img src="ER Diagram.png"><br><br>
+<img src="ER diagram.png"><br><br>
 
 ### 6.0 Sequence Diagram
 
