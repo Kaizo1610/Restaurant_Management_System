@@ -69,22 +69,14 @@ The reservation system ensures that customers can effortlessly plan their visits
 <img src="about1.png">
 <p>1.Explain more about our restaurant's background.</p><br><br>
 
-#### 4.4 Table Reservation page
-#### 4.4.1 Reserve Table page
-<img src="TableReservation.png">
-<p>1.Customers can fill the empty boxes with the reservation details.</p>
-<p>2.Customers just need to click the "Make a Reservation" button to submit their reservation details,  and then will be directed to the make order page.</p>
-<p>3.Customers can click the "Cancel" button to cancel their reservation,  and then will be directed to the home page.</p>
-<p>4. Staff can click  "Order Now" button to skip the page and will be directed to the make order page.</p><br>
-
-#### 4.5 Order page
-#### 4.5.1 Make Order page
+#### 4.4 Order page
+#### 4.4.1 Make Order page
 <img src="MakeOrder.png">
 <p>1.Customers can choose which meals they want.</p>
 <p>2.Customers can use the left and right arrows to add or remove the quantity of that meal.</p>
 <p>3.Customers just need to click the "order" button to finalize their orders.</p><br>
 
-#### 4.5.2 View Order page
+#### 4.4.2 View Order page
 <img src="ViewOrder.png">
 <p>1.Customers can see the details of orders that they make.</p>
 <p>2.Customers can click the "back" button to go back to the previous page.</p>
@@ -92,41 +84,51 @@ The reservation system ensures that customers can effortlessly plan their visits
 <p>4.Customers also can click the "cancel" button if they want to change their mind.</p><br><br>
 
 
-#### 4.6 Chefs Page
-#### 4.6.1 View Chefs page
+#### 4.5 Chefs Page
+#### 4.5.1 View Chefs page
 <img src="chefs1.png">
 <p>1.List up the best chefs from our restaurant.</p><br><br>
 
 
-#### 4.7 Contact Us Page
-#### 4.7.1 View Contact page
-<img src="chefs1.png">
+#### 4.6 Contact Us Page
+#### 4.6.1 View Contact page
+<img src="ContactUS.png">
 <p>1.Customers can view the methods to contact our restaurant.</p>
 <p>2.Customers can view the location of our restaurant.</p>
 <p>3.Customers can click the "reserve your table" button to reserve the table and time.</p>
 
+#### 4.6.2 Table Reservation page
+<img src="TableReservation.png">
+<p>1.Customers can fill the empty boxes with the reservation details.</p>
+<p>2.Customers just need to click the "Make a Reservation" button to submit their reservation details,  and then will be directed to the make order page.</p>
+<p>3.Customers can click the "Cancel" button to cancel their reservation,  and then will be directed to the home page.</p>
+<p>4. Staff can click  "Order Now" button to skip the page and will be directed to the make order page.</p><br><br>
 
+#### 4.7 Payment Page
+#### 4.7.1 View Payment page
+<img src="Payment.png">
+<p>1.Customers can view the detailed payment they need to pay.</p>
+<p>2.List up the methods that can be used by customers to make payments.</p>
 
-#### 4.8 Payment Page
-#### 4.8.1 View Payment page
-<img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br>
+#### 4.7.2 Online Banking page
+<img src="OnlineBanking.png">
+<p>1.Customers can use either QR pay or transfer to the directed bank account to settle the payments.</p><br>
 
-#### 4.8.2 Online Banking page
-<img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br>
+#### 4.7.3 Credit Card page
+<img src="CreditCard.png">
+<p>1.Customers can view several empty boxes that they need to fill to complete the payments.</p><br>
 
-#### 4.8.3 Credit Card page
-<img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br>
+#### 4.7.4 Payment Successful page
+<img src="PaymentSuccess.png">
+<p>1.Customers will see the payment successful.</p>
+<p>2.Customers can click the "return" button to go back to the previous page.</p>
+<p>3.Customers also can click the "view order" button to view back the order.</p><br>
 
-#### 4.8.4 Payment Successful page
-<img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br>
-
-#### 4.8.5 Payment Failed page
-<img src="chefs1.png">
-<p>1.List up the best chefs from our restaurant.</p><br><br>
+#### 4.7.5 Payment Failed page
+<img src="PaymentFail.png">
+<p>1.Customers will see the payment failed.</p>
+<p>2.Customers can click the "return" button to go back to the previous page.</p>
+<p>3.Customers also can click the "view order" button to view back the order.</p><br>
 
 
 ### 5.0 Entity Relation Diagram
