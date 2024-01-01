@@ -92,7 +92,7 @@ The reservation system ensures that customers can effortlessly plan their visits
 
 #### 4.6 Contact Us Page
 #### 4.6.1 View Contact page
-<img src="ContactUS.png">
+<img src="ContactUs.png">
 <p>1.Customers can view the methods to contact our restaurant.</p>
 <p>2.Customers can view the location of our restaurant.</p>
 <p>3.Customers can click the "reserve your table" button to reserve the table and time.</p>
